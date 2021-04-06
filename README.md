@@ -1,7 +1,8 @@
 # Resume_2c
 # Mohammd Akram Sharief Shaik
-#####
+#####      Dedicated
 ### Personal Details:
+
 - Age: 19
 - Father Name: Munwar Sharief Shaik
 - Email Id: akramsharief116@gmail.com
@@ -22,7 +23,7 @@
 - SSC
 - Guntur,AP
 
-### skills
+### Skills
 - C Programming
 - JAVA
 - Python
